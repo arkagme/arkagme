@@ -4,6 +4,6 @@
 
 <h5 align="center">I am a tech-enthusiast with experience in working in AR/VR , IOT and Full Stack Application.</h5>
 
-[![Arkapravas's GitHub stats]]
+<h3 align="center">Arkapravas's GitHub stats</h3>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arkagme&theme=dark&hide_border=false)<br/>
 
