@@ -8,3 +8,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arkagme&theme=dark&hide_border=false)<br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkagme)](https://github.com/arkagme/github-readme-stats)
