@@ -4,4 +4,4 @@ Currently a pre-final year undergrad student studying Computer Science & Enginee
 
 I am a tech-enthusiast with experience in working in AR/VR , IOT and Full Stack Application.
 
-[![Arkaprava's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=arkagme&theme=dark&hide_border=false)<br/>]
+![Arkaprava's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=arkagme&theme=dark&hide_border=false)<br/>
