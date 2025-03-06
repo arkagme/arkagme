@@ -6,7 +6,7 @@
 
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com?user=arkagme&theme=onedark&border_radius=12)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkagme&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkagme&layout=compact&size_weight=0&count_weight=1)
 
 
 # 💻 Tech Stack:
