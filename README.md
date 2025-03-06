@@ -5,8 +5,8 @@
 <h5 align="center">I am a tech-enthusiast with experience in working in AR/VR , IOT and Full Stack Application.</h5>
 
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com?user=arkagme&theme=onedark&border_radius=12)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkagme&layout=compact&size_weight=0.5&count_weight=0.5)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com?user=arkagme&theme=onedark&border_radius=12)<br>
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arkagme&theme=github_dark)
 
 
 # 💻 Tech Stack:
