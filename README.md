@@ -6,8 +6,6 @@
 
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com?user=arkagme&theme=onedark&border_radius=12) 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arkagme&theme=github_dark)
-![Arkas's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkagme&show_icons=true&theme=radical)
 
 
 # 💻 Tech Stack:
