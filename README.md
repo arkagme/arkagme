@@ -1,11 +1,12 @@
 # <h1 align="center">Hi 👋, This is Arkaprava</h1>
 
-<h5 align="center">Currently a pre-final year undergrad student studying Computer Science & Engineering </h5>
+<h5 align="center">Currently a final year undergrad student studying Computer Science & Engineering </h5>
 
 <h5 align="center">I am a full stack dev with experience in building full stack apps , scalable backend systems </h5>
 
-
-![Github Stats](https://github-readme-streak-stats.herokuapp.com?user=arkagme&theme=onedark&border_radius=12) 
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=arkagme&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arkagme&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 # 💻 Tech Stack:
